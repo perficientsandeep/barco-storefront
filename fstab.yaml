@@ -1,7 +1,5 @@
 mountpoints:
-  /:
-    url: https://da.live/#/perficientsandeep/barco-storefront
-    type: markup
+  /: https://raw.githubusercontent.com/perficientsandeep/barco-storefront/main/
 
 folders:
   /products/: /products/default
